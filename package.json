@@ -1,6 +1,6 @@
 {
   "name": "no-op",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "one no-op function to rule them all",
   "main": "index.js",
   "license": "MIT",
