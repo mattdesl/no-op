@@ -21,6 +21,12 @@ function foobar(cb) {
 
 A function that does nothing.
 
+## see also
+
+- [noop](https://www.npmjs.org/package/noop)
+- [nop](https://github.com/supershabam/nop)
+- [noop2](https://github.com/yoshuawuyts/noop2)
+
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/no-op/blob/master/LICENSE.md) for details.
