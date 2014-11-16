@@ -1,0 +1,40 @@
+{
+  "name": "no-op",
+  "version": "1.0.0",
+  "description": "one function to rule them all",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "noop",
+    "no",
+    "op",
+    "nil",
+    "no-op",
+    "operation",
+    "empty",
+    "pass",
+    "nothing",
+    "func",
+    "function"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/no-op.git"
+  },
+  "homepage": "https://github.com/mattdesl/no-op",
+  "bugs": {
+    "url": "https://github.com/mattdesl/no-op/issues"
+  }
+}
