@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "one no-op function to rule them all",
   "main": "index.js",
+  "typings": "index.d.ts",
   "license": "MIT",
   "author": {
     "name": "Matt DesLauriers",
